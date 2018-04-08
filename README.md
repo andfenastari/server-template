@@ -1,3 +1,9 @@
+# Como utlizar
+
+## Ligar o servidor de desenvolvimento
+`yarn run dev`
+As mudanças feitas no codigo serão atualizadas automaticamente.
+
 # Site dos cursos
 www.freecodecamp.org
 
